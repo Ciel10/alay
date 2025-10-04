@@ -336,22 +336,6 @@ function startPhotoShow() {
         {
             text: 'Cozy Together ❤️',
             image: './images/photo4.jpg'
-        },
-        {
-            text: 'Sweet Memories 🥰',
-            image: './images/photo5.jpg'
-        },
-        {
-            text: 'Laugh Together 😂',
-            image: './images/photo6.jpg'
-        },
-        {
-            text: 'Perfect Day ☀️',
-            image: './images/photo7.jpg'
-        },
-        {
-            text: 'Love Forever 💖',
-            image: './images/photo8.jpg'
         }
     ];
     
